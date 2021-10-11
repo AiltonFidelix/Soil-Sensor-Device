@@ -1,0 +1,1 @@
+This application for measuring soil humidity using ESP32 and MicroPython.
